@@ -15,7 +15,3 @@ class Jal
     )
   end
 end
-
-# # Usage
-# j = Jal.new
-# j.send_deploy('/code hi')
